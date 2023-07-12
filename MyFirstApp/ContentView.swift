@@ -14,6 +14,7 @@ struct ContentView: View {
             Text("hammerhead shark!")
                 .font(.title)
                 .foregroundColor(Color.blue)
+            
         }
         
     }
